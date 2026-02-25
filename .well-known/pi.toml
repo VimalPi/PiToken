@@ -1,6 +1,15 @@
-[[CURRENCIES]]
-code="MYTT1"
-issuer="GAMR5HWIHFRLJGLBWWIXO43GYRDK32W5S3GO7WATS64KL3KCF2D6OHIZ"
-name="My Token"
-desc="Pi Testnet token"
-image="https://VimalPi.github.io/pitoken/logo.png"
+# Pi configuration
+
+# The title of your site
+title = "Your Site Title"
+
+# The base URL of your site
+base_url = "https://vimalpi.github.io/PiToken/"
+
+# The author of the site
+author = "Your Name"
+
+# The theme of your site
+theme = "default"
+
+# Additional settings can be added as needed
