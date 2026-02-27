@@ -2,7 +2,7 @@ VERSION="2.0"
 
 [[CURRENCIES]]
 code="MYTT1"
-issuer="GAMR5HWIHFRLJGLBWWIXO43GYRDK32W5S3GO7WATS64KL3KCF2D6OHIZ"
+issuer="GCLXICPGTEPEM3E5BMKWORTJJ5SVBGICROPZWZZHVZMPWQNREJOFFW7Z"
 name="MYTOKEN"
 desc="MYTOKEN is a Pi Testnet token created for learning and development purposes."
 image="https://vimalpi.github.io/PiToken/logo.png"
