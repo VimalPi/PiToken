@@ -1,7 +1,7 @@
 VERSION="2.0"
 
 [[CURRENCIES]]
-code="MYTT1"
+code="MYTT2"
 issuer="GCLXICPGTEPEM3E5BMKWORTJJ5SVBGICROPZWZZHVZMPWQNREJOFFW7Z"
 name="MYTOKEN"
 desc="MYTOKEN is a Pi Testnet token created for learning and development purposes."
